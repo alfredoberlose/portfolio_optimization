@@ -1,0 +1,2 @@
+<h1>Portfolio Optimization with Heuristics and PSO</h1>
+<p>This project applies Particle Swarm Optimization (PSO) to solve portfolio optimization problems under constraints, including the Markowitz mean-variance approach and mixed-integer constraints. It evaluates portfolio performance using risk measures like Value at Risk (VaR) and Expected Shortfall (ES), comparing results with traditional methods. The analysis highlights the effectiveness of heuristic techniques in improving portfolio efficiency and managing risk.</p>
